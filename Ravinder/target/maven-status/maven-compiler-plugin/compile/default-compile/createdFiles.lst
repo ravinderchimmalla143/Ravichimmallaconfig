@@ -1,0 +1,11 @@
+com\slokam\Ravinder\controller\StudentController.class
+com\slokam\Ravinder\controller\TestController.class
+com\slokam\Ravinder\exception\OurExceptionHandler.class
+com\slokam\Ravinder\service\IStudentService.class
+com\slokam\Ravinder\dao\StudentDao.class
+com\slokam\Ravinder\RavinderApplication.class
+com\slokam\Ravinder\service\StudentMangoDBService.class
+com\slokam\Ravinder\Util\StringUtil.class
+com\slokam\Ravinder\service\StudentService.class
+com\slokam\Ravinder\pojo\StudentPojo.class
+com\slokam\Ravinder\exception\DuplicateName.class

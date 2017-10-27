@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Ravinder
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rajkumar chimmalla
+Implementation-Vendor-Id: com.slokam
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/Ravinder/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
